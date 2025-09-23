@@ -1,4 +1,9 @@
 [
+ {
+    "version": "1.0.1",
+    "name": "_version_info",
+    "id": -1
+  },
   {
     "name": "24-carat sword",
     "id": 24539,
@@ -71310,7 +71315,7 @@
     "isTwoHanded": false
   },
   {
-    "name": "Hunters sunlight crossbow",
+    "name": "Hunters' sunlight crossbow",
     "id": 28869,
     "version": "",
     "slot": "weapon",
