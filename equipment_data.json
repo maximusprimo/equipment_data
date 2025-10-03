@@ -32,7 +32,7 @@
     "magic": 12,
     "ranged": 0
   },
-  "isTwoHanded": true
+  "isTwoHanded": false
 },
   {
     "name": "24-carat sword",
