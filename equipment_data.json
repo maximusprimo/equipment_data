@@ -1,8 +1,38 @@
 [
  {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "_version_info",
     "id": -1
+  },
+ {
+    "name": "Steel ring",
+    "id": 30895,
+    "version": "",
+    "slot": "ring",
+    "image": "steel ring.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 24,
+      "slash": 24,
+      "crush": 24,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
   },
 {
   "name": "Twinflame staff",
