@@ -1,6 +1,6 @@
 [
  {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "name": "_version_info",
     "id": -1
   },
@@ -34,36 +34,6 @@
     },
     "isTwoHanded": false
   },
-{
-  "name": "Twinflame staff",
-  "id": 30634,
-  "version": "",
-  "slot": "weapon",
-  "image": "twinflame staff.png",
-  "speed": 6,
-  "category": "Magic",
-  "bonuses": {
-    "str": 22,
-    "ranged_str": 0,
-    "magic_str": 0,
-    "prayer": 0
-  },
-  "offensive": {
-    "stab": 7,
-    "slash": -1,
-    "crush": 28,
-    "magic": 12,
-    "ranged": 0
-  },
-  "defensive": {
-    "stab": 2,
-    "slash": 3,
-    "crush": 1,
-    "magic": 12,
-    "ranged": 0
-  },
-  "isTwoHanded": false
-},
   {
     "name": "24-carat sword",
     "id": 24539,
@@ -12004,6 +11974,36 @@
     },
     "isTwoHanded": false
   },
+{
+  "name": "Arkan blade",
+  "id": 30955,
+  "version": "",
+  "slot": "weapon",
+  "image": "arkan blade.png",
+  "speed": 4,
+  "category": "Melee",
+  "bonuses": {
+    "str": 64,
+    "ranged_str": 0,
+    "magic_str": 0,
+    "prayer": 1
+  },
+  "offensive": {
+    "stab": 55,
+    "slash": 70,
+    "crush": 0,
+    "magic": 0,
+    "ranged": 0
+  },
+  "defensive": {
+    "stab": 0,
+    "slash": 0,
+    "crush": 0,
+    "magic": 0,
+    "ranged": 0
+  },
+  "isTwoHanded": false
+},
   {
     "name": "Armadyl bracers",
     "id": 12506,
@@ -129544,6 +129544,36 @@
     },
     "isTwoHanded": false
   },
+{
+  "name": "Twinflame staff",
+  "id": 30634,
+  "version": "",
+  "slot": "weapon",
+  "image": "twinflame staff.png",
+  "speed": 6,
+  "category": "Magic",
+  "bonuses": {
+    "str": 22,
+    "ranged_str": 0,
+    "magic_str": 0,
+    "prayer": 0
+  },
+  "offensive": {
+    "stab": 7,
+    "slash": -1,
+    "crush": 28,
+    "magic": 12,
+    "ranged": 0
+  },
+  "defensive": {
+    "stab": 2,
+    "slash": 3,
+    "crush": 1,
+    "magic": 12,
+    "ranged": 0
+  },
+  "isTwoHanded": false
+},
   {
     "name": "Twisted adamant trophy",
     "id": 24376,
